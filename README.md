@@ -91,8 +91,3 @@ python decrypt.py
 ⭐ If you like this project
 
 Give it a star on GitHub and feel free to contribute!
----
-
-If you want next level:
-:contentReference[oaicite:0]{index=0}
-```
